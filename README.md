@@ -2,4 +2,5 @@
 ### 👕 Esperanta Presa T-ĉemizo 
 ### 📡 ポッドキャストのように
 ### 🏃 目标5km
+### 🏊 目标500m
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
