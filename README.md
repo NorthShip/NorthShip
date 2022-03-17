@@ -3,6 +3,6 @@
 ![](https://img.shields.io/badge/language-SQL-blue.svg)
 ![](https://img.shields.io/badge/language-Python-red.svg)
 
-{% bdage Source,GitHub,GitHub||,https://github.com/ %}
+![](https://img.shields.io/badge/Frame-Hexo-blue?logo=Hexo&style=plastic)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
