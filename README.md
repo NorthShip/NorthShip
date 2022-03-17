@@ -1,6 +1,7 @@
 ### 👋 Hi there！
-I'm a data engineer.
-I have extensive knowledge in data warehouse architect and data flow develop.
+I'm a data engineer. 
+
+I have extensive knowledge in data warehouse architect and data flow design.
 
 ### 🎨 We can create art and beauty with a computer
 
