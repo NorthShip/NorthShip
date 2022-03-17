@@ -5,6 +5,6 @@
 ![](https://img.shields.io/badge/language-Python-blue?logo=Python)
 ![](https://img.shields.io/badge/language-SQL-green?logo=MySQL)
 ![](https://img.shields.io/badge/database-Neo4j-white?logo=Neo4j)
-![](https://img.shields.io/badge/frame-Flink-pink?logo=Apache Flink)
+![](https://img.shields.io/badge/frame-Flink-pink?logo=Flink)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
