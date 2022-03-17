@@ -1,4 +1,4 @@
-### 🎨  We can create art and beauty with a computer
+### 🎨 We can create art and beauty with a computer
 
 ## Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
