@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/language-Python-blue?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/language-SQL-blue?logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/database-Neo4j-blue?logo=Neo4j&logoColor=white)
-![](https://img.shields.io/badge/dagabase-Hive-blue?logo=ApacheHive&logoColor=white)
+![](https://img.shields.io/badge/database-Hive-blue?logo=ApacheHive&logoColor=white)
 ![](https://img.shields.io/badge/framework-Flink-blue?logo=ApacheFlink&logoColor=white)
 
 
