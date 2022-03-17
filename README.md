@@ -1,7 +1,8 @@
-### 🎨 We can create art and beauty with a computer
 ### 👋 Hi there！
 I'm a data engineer.
 I have extensive knowledge in data warehouse architect and data flow develop.
+
+### 🎨 We can create art and beauty with a computer
 
 ## Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
