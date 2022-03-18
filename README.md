@@ -4,7 +4,7 @@ I'm a data engineer.
 I have knowledge in data warehouse architect and data flow design.
 
 ## Stack
-![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=yellow)
+![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/language-Python-blue?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/language-SQL-blue?logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/database-Neo4j-blue?logo=Neo4j&logoColor=white)
