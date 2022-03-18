@@ -1,8 +1,7 @@
-### 👋 Hi there！
+### 👋 Hi there! My name is Hardy.
 I'm a data engineer. 
-
-I have knowledge in data warehouse architect and data flow design.
-
+I'm interested in in data warehouse architect and data flow design.
+I believe that we can create art and beauty with a computer 🎨 
 ## Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/language-Python-blue?logo=Python&logoColor=white)
@@ -15,4 +14,4 @@ I have knowledge in data warehouse architect and data flow design.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
 
 
-### 🎨 We can create art and beauty with a computer
+
