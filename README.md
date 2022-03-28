@@ -3,6 +3,7 @@ I'm a data engineer.
 
 I'm interested in data warehouse architect and data flow design. 
 
+🔭 Always looking for job opportunities!
 📮 northship.github@protonmail.com
 
 ## Stack
