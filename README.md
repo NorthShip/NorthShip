@@ -1,7 +1,6 @@
-### 👋 Hi there! My name is Ha Da.
-I'm a data engineer. 
+### 👋 Hi there! My name is Ha Da. I'm a data engineer. 
 
-I'm interested in data warehouse architect and data flow design. 
+🌲 I'm interested in data warehouse architect and data flow design. 
 
 🔭 Always looking for job opportunities! 
 
