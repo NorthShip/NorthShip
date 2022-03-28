@@ -3,7 +3,6 @@ I'm a data engineer.
 
 I'm interested in data warehouse architect and data flow design. 
 
-I believe that we can create art and beauty with a computer.
 ## Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/language-Python-blue?logo=Python&logoColor=white)
