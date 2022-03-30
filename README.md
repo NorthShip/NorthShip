@@ -6,7 +6,7 @@
 
 📮 northship.github@protonmail.com
 
-💻 [paprika podcast](http://northship.github.io)
+💻 [Homepage](http://northship.github.io)
 
 ## Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
