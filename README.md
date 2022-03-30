@@ -4,9 +4,9 @@
 
 🔭 Always looking for job opportunities! 
 
-📮 northship.github@protonmail.com
+📮 mailbox(northship.github@protonmail.com)
 
-💻 http://northship.github.io
+💻 [paprika podcast](http://northship.github.io)
 
 ## Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
