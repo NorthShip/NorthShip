@@ -4,7 +4,7 @@
 
 🔭 Always looking for job opportunities! 
 
-📮 mailbox(northship.github@protonmail.com)
+📮 northship.github@protonmail.com
 
 💻 [paprika podcast](http://northship.github.io)
 
