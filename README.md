@@ -4,7 +4,7 @@
 
 🔭 Always looking for job opportunities! 
 
-📮 northship.github@protonmail.com
+📮 northship.github@gmail.com
 
 💻 [Homepage](http://northship.github.io)
 
