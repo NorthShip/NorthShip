@@ -2,9 +2,7 @@
 
 🌲 I'm interested in data warehouse architect and data flow design. 
 
-🔭 Always looking for job opportunities! 
-
-📮 northship.github@gmail.com
+🔭 Always looking for job opportunities! 📮 northship.github@gmail.com
 
 💻 [Homepage](http://northship.github.io)
 
