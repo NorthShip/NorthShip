@@ -1,4 +1,4 @@
-### 👋 Hi there ! My name is Ha Da. I'm a data engineer. 
+### 👋 Hi there ! My name is Ha Da.
 
 • A highly enthusiastic and motivated data engineer. 
 
