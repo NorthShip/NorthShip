@@ -1,6 +1,12 @@
 ### 👋 Hi there ! My name is Ha Da. I'm a data engineer. 
 
-🌲 I'm interested in data warehouse architect and data flow design. 
+• A highly enthusiastic and motivated data engineer.
+• 5+ years of work experience with data warehouse architecture, data modeling and big data technologies.
+• Experienced with design and implement batch and stream data processing pipelines.
+• Ability to build enterprise data warehouse from 0 to 1.
+• Skilled in writing SQL, Java and Python.
+• Knowledged of Engineering Management.
+• Lately focused on data lake and knowledge graph.
 
 🔭 Always looking for job opportunities! 
 
