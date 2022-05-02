@@ -16,7 +16,7 @@
 
 🔭 Always looking for job opportunities! 
 
-📮 northship.github@gmail.com
+📮 hada.yun@foxmail.com
 
 ## Tech Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
