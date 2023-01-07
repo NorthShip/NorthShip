@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/database-Neo4j-blue?logo=Neo4j&logoColor=white)
 ![](https://img.shields.io/badge/database-Hive-blue?logo=ApacheHive&logoColor=white)
 ![](https://img.shields.io/badge/framework-Flink-blue?logo=ApacheFlink&logoColor=white)
+![](https://raw.githubusercontent.com/NorthShip/NorthShip/main/assets/github-contribution-grid-snake.svg)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
