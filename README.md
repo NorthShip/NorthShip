@@ -14,9 +14,7 @@
 
 • Lately focused on data lake and knowledge graph.
 
-🔭 Always looking for job opportunities! 
-
-📮 hada.yun@foxmail.com
+🔭 Always looking for job opportunities!  | 📮 hada.yun@foxmail.com
 
 ## Tech Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
