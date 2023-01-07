@@ -23,8 +23,6 @@
 
 • Modern Drama 
 
-• Netflix & Chill
-
 
 ## Tech Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
