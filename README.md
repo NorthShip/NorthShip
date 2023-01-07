@@ -1,8 +1,6 @@
 ### Hi there ! My name is Ha Da.
 
-• Data engineer. 
-
-• Skilled in writing SQL, Java and Python. 
+• Data engineer. Skilled in writing SQL, Java and Python. 
 
 • 5+ years of work experience with data warehouse architecture. 
 
