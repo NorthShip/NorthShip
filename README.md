@@ -15,11 +15,11 @@
 🔭 Always looking for job opportunities!  | 📮 hada.yun@foxmail.com
 
 
-🚢Hobby
-• FM Radio.SANGEAN DT-800.
-• City Explore
-• Modern Drama
-• Digital Nomadism
+🚢Hobby 
+• FM Radio.SANGEAN DT-800. 
+• City Explore 
+• Modern Drama 
+• Digital Nomadism 
 
 ## Tech Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
