@@ -1,14 +1,14 @@
 ### Hi there ! My name is Ha Da.
 
-• A highly enthusiastic and motivated data engineer. 
+• Data engineer. 
+
+• Skilled in writing SQL, Java and Python. 
 
 • 5+ years of work experience with data warehouse architecture, data modeling and big data technologies. 
 
-• Experienced with design and implement batch and stream data processing pipelines. 
-
 • Ability to build enterprise data warehouse from 0 to 1. 
 
-• Skilled in writing SQL, Java and Python. 
+• Experienced with design and implement batch and stream data processing pipelines. 
 
 • Knowledged of Engineering Management. 
 
