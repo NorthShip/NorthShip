@@ -4,7 +4,7 @@
 
 • Skilled in writing SQL, Java and Python. 
 
-• 5+ years of work experience with data warehouse architecture, data modeling and big data technologies. 
+• 5+ years of work experience with data warehouse architecture. 
 
 • Ability to build enterprise data warehouse from 0 to 1. 
 
