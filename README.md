@@ -17,13 +17,11 @@
 
 🚢Hobby 
 
-• FM Radio.SANGEAN DT-800. 
+• FM Radio（SANGEAN DT-800）
 
-• City Explore 
+• City Explore, Digital Nomadism 
 
 • Modern Drama 
-
-• Digital Nomadism 
 
 
 ## Tech Stack
