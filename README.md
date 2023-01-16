@@ -2,9 +2,7 @@
 
 • Data engineer. Skilled in writing SQL, Java and Python. 
 
-• 5+ years of work experience with data warehouse architecture. 
-
-• Ability to build enterprise data warehouse from 0 to 1. 
+• 5+ years of work experience with data warehouse architecture. Ability to build enterprise data warehouse from 0 to 1. 
 
 • Experienced with design and implement batch and stream data processing pipelines. 
 
