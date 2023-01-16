@@ -21,8 +21,6 @@
 
 • Sid Meier‘s Civilization
 
-• Netflix and Chill
-
 
 ## Tech Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
