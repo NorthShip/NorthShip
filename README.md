@@ -21,7 +21,7 @@
 
 • Sid Meier‘s Civilization
 
-• Netflix and chill
+• Netflix and Chill
 
 
 ## Tech Stack
