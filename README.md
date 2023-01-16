@@ -8,7 +8,7 @@
 
 • Experienced with design and implement batch and stream data processing pipelines. 
 
-• Knowledged of Engineering Management. Lately focused on data lake and knowledge graph.
+• Experienced with Engineering Management. 
 
 🔭 Always looking for job opportunities!  | 📮 hada.yun@foxmail.com
 
