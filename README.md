@@ -15,11 +15,13 @@
 
 ### 🚢 Hobby 
 
-• FM Radio（SANGEAN DT-800）
+• FM Radio📻（SANGEAN DT-800）
+
+• Swimming🏊‍
 
 • City Explore, Digital Nomadism 
 
-• Modern Drama 
+• Modern Drama🎭
 
 • Sid Meier‘s Civilization
 
