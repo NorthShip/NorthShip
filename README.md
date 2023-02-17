@@ -10,7 +10,7 @@
 
 • Experienced with Engineering Management. 
 
-🔭 Always looking for job opportunities!  | 📮 hada.yun@foxmail.com
+😊Always looking for job opportunities!  | 📮 hada.yun@foxmail.com
 
 
 ### 🚢 Hobby 
