@@ -15,7 +15,7 @@
 
 ### 🚢 Hobby 
 
-📻FM Radio（SANGEAN DT-800）| 🏊‍Swimming | City Explore, Digital Nomadism | 🎭Modern Drama | Sid Meier‘s Civilization
+📻FM Radio（SANGEAN DT-800）| 🏊‍Swimming | 🧭City Explore | ⌚Digital Nomadism | 🎭Modern Drama | Sid Meier‘s Civilization
 
 
 ## Tech Stack
