@@ -4,8 +4,6 @@
 
 • 5+ years of work experience with data warehouse architecture. 
 
-• Ability to build enterprise data warehouse from 0 to 1. 
-
 • Experienced with design and implement batch and stream data processing pipelines. 
 
 • Experienced with project management. 
