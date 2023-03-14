@@ -11,7 +11,7 @@
 😊Always looking for job opportunities!  | 📮 hada.yun@foxmail.com
 
 
-### 🚢 Hobby 
+### Hobby 
 
 📻FM Radio（SANGEAN DT-800）| 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | Sid Meier‘s Civilization
 
