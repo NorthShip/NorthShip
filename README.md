@@ -8,7 +8,9 @@
 
 • Experienced with project management. 
 
-😊Always looking for job opportunities!  | 📮 hada.yun@foxmail.com
+😊Always looking for job opportunities! 
+
+📮 hada.yun@foxmail.com
 
 
 ### Hobby 
