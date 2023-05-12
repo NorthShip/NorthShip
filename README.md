@@ -14,7 +14,8 @@
 
 
 ### Hobby 
-😎MBTI:INFJ| ☃️DNA Haploid：c2c1a2a-f1319
+😎MBTI:INFJ| ☃️DNA Haploid：c2c1a2a-f1319  
+
 📻FM Radio | 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | Sid Meier‘s Civilization
 
 
