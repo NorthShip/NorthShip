@@ -1,4 +1,4 @@
-### 👋 Hi there ! My name is Ha Da.
+### 👋 Hi there ! My name is Ha Da. 
 
 • Data engineer. Skilled in writing SQL, Java and Python. 
 
@@ -14,8 +14,8 @@
 
 
 ### Hobby 
-
-📻FM Radio（SANGEAN DT-800）| 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | Sid Meier‘s Civilization
+😎MBTI:INFJ| ☃️DNA Haploid：c2c1a2a-f1319
+📻FM Radio | 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | Sid Meier‘s Civilization
 
 
 ### Tech Stack
