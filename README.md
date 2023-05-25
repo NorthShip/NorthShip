@@ -14,8 +14,7 @@
 
 
 ### Hobby 
-📻FM Radio | 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | Sid Meier‘s Civilization
-
+📻FM Radio | 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | 🦉Philosophy
 
 ### Tech Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
