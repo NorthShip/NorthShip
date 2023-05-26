@@ -17,7 +17,7 @@
 📻FM Radio | 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | 🦉Philosophy
 
 ### Tech Stack
-![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
+![](https://img.shields.io/badge/language-Java-blue?logo=jakarta&logoColor=white)
 ![](https://img.shields.io/badge/language-Python-blue?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/language-SQL-blue?logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/database-Neo4j-blue?logo=Neo4j&logoColor=white)
