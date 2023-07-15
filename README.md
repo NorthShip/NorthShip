@@ -4,10 +4,6 @@
 
 • 5+ years of work experience with data warehouse architecture. 
 
-• Experienced with design and implement batch and stream data processing pipelines. 
-
-• Experienced with project management. 
-
 😊Always looking for job opportunities! 
 
 📮 hada.yun@foxmail.com
