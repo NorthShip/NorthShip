@@ -22,4 +22,5 @@
 
 
 <img src="https://github.com/NorthShip/NorthShip/blob/main/Frequency_vs._wave_length.svg" />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
