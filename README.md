@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/database-Hive-blue?logo=ApacheHive&logoColor=white)
 ![](https://img.shields.io/badge/framework-Flink-blue?logo=ApacheFlink&logoColor=white)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
 
 <img src="https://github.com/NorthShip/NorthShip/blob/main/Frequency_vs._wave_length.svg" />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthShip)
