@@ -4,8 +4,6 @@
 
 • 5+ years of work experience with data warehouse architecture. 
 
-😊Always looking for job opportunities! 
-
 📮 hada.yun@foxmail.com
 
 
