@@ -6,7 +6,7 @@
 
 
 ### Hobby 
-📻FM Radio | 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | 🦉Philosophy
+📻Ham Radio | 🏊‍Swimming | 🧭City Explore | 🎭Modern Drama | 🦉Philosophy
 
 ### Tech Stack
 ![](https://img.shields.io/badge/language-Java-blue?logo=Java&logoColor=white)
