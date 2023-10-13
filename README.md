@@ -1,8 +1,7 @@
 ### 👋 Hi there ! My name is Ha Da. 
 
-• Data engineer. Skilled in writing SQL, Java and Python. 
-
-📮 hada.yun@foxmail.com
+• Data engineer. 
+• Skilled in writing SQL, Java and Python. 
 
 
 ### Hobby 
